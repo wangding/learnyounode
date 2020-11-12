@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "3.4.0",
     "ejs": "~0.8.4",
-    "mongoose": "~3.6.19"
+    "mongoose": "~5.10.2"
   }
 }
